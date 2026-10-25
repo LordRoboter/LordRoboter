@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I like flutter :)
+I like to code things that make my everyday life easier :)
+
+
 <!--
 **LordRoboter/LordRoboter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
